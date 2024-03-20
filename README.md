@@ -37,3 +37,23 @@ python source/main.py --input_path test --store_path test_res --pattern 3
 ```
 python source/main.py --input_path test --store_path test_res --pattern 3 --refine
 ```
+
+### simulated_data
+
+raw_data: raw single image
+
+simulation1: translation only
+
+simulation2: translation + rotation
+
+simulation3: rigid + local distortion
+
+C*_*: section image
+
+C*_res: result of vEMstitch
+
+fiji_restore: result of Fiji
+
+mist_restore: result of MIST
+
+trakem2_restore: result of TrakEM2
