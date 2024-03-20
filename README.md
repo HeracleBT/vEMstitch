@@ -39,6 +39,7 @@ python source/main.py --input_path test --store_path test_res --pattern 3 --refi
 ```
 
 ### simulated_data
+for illustration, some simulation results
 
 raw_data: raw single image
 
