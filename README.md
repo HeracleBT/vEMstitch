@@ -38,6 +38,8 @@ python source/main.py --input_path test --store_path test_res --pattern 3
 python source/main.py --input_path test --store_path test_res --pattern 3 --refine
 ```
 
+## related_data
+
 ### simulated_data
 for illustration, some simulation results
 
@@ -58,3 +60,12 @@ fiji_restore: result of Fiji
 mist_restore: result of MIST
 
 trakem2_restore: result of TrakEM2
+
+### real_test
+we have provided the raw sections and stitched results of compared methods.
+
+
+## License
+[![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+The data is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0).
