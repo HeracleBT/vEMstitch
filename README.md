@@ -41,7 +41,7 @@ python source/main.py --input_path test --store_path test_res --pattern 3 --refi
 ## related_data
 
 ### simulated_data
-for illustration, some simulation results
+for illustration, some simulation results (three examples of total 100 ones)
 
 raw_data: raw single image
 
@@ -51,9 +51,15 @@ simulation2: translation + rotation
 
 simulation3: rigid + local distortion
 
+simulation_noise: different level of noise
+
+simulation_deformation: different level of deformation
+
 C*_*: section image
 
 C*_res: result of vEMstitch
+
+C*_stitching_row*: row result of vEMstitch
 
 fiji_restore: result of Fiji
 
