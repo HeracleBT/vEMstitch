@@ -67,7 +67,18 @@ we have provided the raw sections and stitched results of compared methods.
 The all real mussel images used in the paper are available at https://pan.quark.cn/s/f097018cdf7b.
 
 
-## License
+## Licenses
 [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![GPL-3.0](https://img.shields.io/badge/license-GPL-blue.svg)]
 
-The data is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0).
+<!-- The data is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0). -->
+
+We assign Licenses to the code and data separately.
+The code matched by the following patterns are licensed under GPL-3.0:
+
++ `*.py`
++ `*.yaml`
+
+The simulation data based on CREMI dataset(https://cremi.org/data) and real mussel images are available under CC BY 4.0, including:
+
++ `*.bmp`
