@@ -106,7 +106,7 @@ The all real mussel images used in the paper are available at https://pan.quark.
 
 
 ## Licenses
-[![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![License](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/HeracleBT/vEMstitch/LICENSE-CC0)
 [![GPL-3.0](https://img.shields.io/badge/license-GPL-blue.svg)]
 
 <!-- The data is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0). -->
@@ -120,6 +120,6 @@ The code matched by the following patterns are licensed under GPL-3.0:
 + `*.h`
 + `*CMakeLists.txt`
 
-The simulation data based on CREMI dataset(https://cremi.org/data) and real mussel images are available under CC BY 4.0, including:
+The simulation data based on CREMI dataset(https://cremi.org/data) and real mussel images are available under CC0 1.0, including:
 
 + `*.bmp`
